@@ -3245,6 +3245,17 @@
                 link: /develop/devtools/uplog_compile
                 text: 编译工具历史更新日志
                 name: uplog_compile
+    -
+      link: /develop/cloud-develop/introduction
+      text: 云开发
+      name: cloud-develop
+      sidebar:     
+        -
+            sidebar: 
+              -
+                link: /develop/cloud-develop/introduction
+                text: 介绍
+                name: introduction      
     # -
     #       text: 插件
     #       name: plugins
@@ -3546,7 +3557,7 @@
             -
               link: /develop/faq/frequently
               text: 其它常见问题
-              name: frequently                  
+              name: frequently      
                                                                    
 # 4
 -
